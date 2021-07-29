@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://discord.gg/VKJeg6nvSH">
-  <img src="https://i.imgur.com/1XJhQBe.png"/>
+    <a href="https://discord.gg/MeD6HFx9fG">
+  <img src="https://i.imgur.com/RZjyfjG.png"/>
     </a>
 </p>
 
@@ -36,3 +36,9 @@ You can convert any date to unix timestamps **[here](https://www.epochconverter.
 Feel free to reach out to me for support.
 
 ### By: [armful#0001](https://github.com/armfxl)
+
+<p align="center">
+  <a href="https://discord.gg/MeD6HFx9fG">
+  <img src="https://i.imgur.com/t2jixCo.png"/>
+  </a>
+</p>
